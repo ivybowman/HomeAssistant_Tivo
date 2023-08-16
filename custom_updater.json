@@ -1,9 +1,9 @@
 {
-    "media_player.virgintivo": {
+    "media_player.tivoant": {
         "version": "0.1.26",
-        "local_location": "/custom_components/virgintivo/media_player.py",
-        "remote_location": "https://raw.githubusercontent.com/bertbert72/HomeAssistant_VirginTivo/master/custom_components/virgintivo/media_player.py",
-        "visit_repo": "https://github.com/bertbert72/HomeAssistant_VirginTivo",
-        "changelog": "https://github.com/bertbert72/HomeAssistant_VirginTivo"
+        "local_location": "/custom_components/tivoant/media_player.py",
+        "remote_location": "https://raw.githubusercontent.com/ivybowman/HomeAssistant_Tivo/master/custom_components/tivoant/media_player.py",
+        "visit_repo": "https://github.com/ivybowman/HomeAssistant_Tivo",
+        "changelog": "https://github.com/ivybowman/HomeAssistant_Tivo"
     }
 }
